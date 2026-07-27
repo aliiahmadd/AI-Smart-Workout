@@ -5,7 +5,7 @@ This project was developed to solve a real-world problem: many people struggle t
 
 
 **Live Application:**  
-https://ai-smart-workout.vercel.app/
+https://ai-smart-workout-28fw.bolt.host
 
 **Problem Statement**
 
@@ -176,7 +176,7 @@ Keep responses clear, motivational, and beginner-friendly while ensuring user sa
 
 ## Deployment
 
-- Vercel
+- Bolt 
 
 ## AI
 

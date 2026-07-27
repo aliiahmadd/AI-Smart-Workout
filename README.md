@@ -1,4 +1,4 @@
-** AI Smart Workout**
+**AI SMART WORKOUT APP**
 
 AI Smart Workout is a modern AI-powered fitness platform designed to make personalized health and fitness accessible to everyone. Instead of following generic workout plans, users receive intelligent recommendations based on their fitness goals, experience level, body information, available equipment, and lifestyle. The application acts as a personal trainer, nutrition assistant, and progress tracker in one unified platform.
 This project was developed to solve a real-world problem: many people struggle to find workout plans that match their individual needs and often lose motivation because they cannot track their progress effectively. AI Smart Workout provides customized guidance, smart insights, and continuous motivation to help users stay consistent and achieve long-term fitness goals.
